@@ -24,7 +24,7 @@ Data/refs/orig
 ##Intrusion Sets Included
 Dataset:
 | Intrusion Set       | Similar Threat Archetype | Active Since | Confidence Level |
-|--------------------|-------------------------|-------------|:----------------:|
+| ------------------- | ------------------------ | ------------ |:----------------:|
 | ANUNAK | N/A | N/A | N/A |
 | APT2 | N/A | N/A | N/A |
 | Blackfly | N/A | N/A | N/A |
