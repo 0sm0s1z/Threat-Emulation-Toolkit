@@ -1,8 +1,7 @@
-#Cyber Tactics Volume - 3-1.Threat_Emulation
+#Cyber Tactics Volume - 3-1.Threat_Emulation <a id="Cyber Tactics Volume - 3-1.Threat_Emulation"></a>
 
 #Table of Contents
 
-# Table of Contents
 * [Introduction](#Introduction)
 * [Purpose](#Purpose)
 * [Intrusion Sets and Threat Archetypes](#Intrusion Sets and Threat Archetypes)
@@ -23,13 +22,15 @@
 * [Brevity Words,defs](#Brevity Words,defs)
 * [Tools](#Tools)
 
+
+
 #Introduction <a id="Introduction"></a>
 
-#Purpose
+#Purpose <a id="Purpose"></a>
 
-#Intrusion Sets and Threat Archetypes
+#Intrusion Sets and Threat Archetypes <a id="Intrusion Sets and Threat Archetypes"></a>
 
-###Threat Archetypes
+###Threat Archetypes <a id="Threat Archetypes"></a>
 * AT_state_sponsored-novice
 * AT_state_sponsored-intermediate
 * AT_state_sponsored-elite
@@ -40,10 +41,10 @@
 * AT_cyber-terrorist
 * AT_law-enforcement
 
-###Intrusion Sets
+###Intrusion Sets <a id="Intrusion Sets"></a>
 Data/refs/orig
 
-##Intrusion Sets Included
+##Intrusion Sets Included <a id="Intrusion Sets Included"></a>
 
 Dataset:
 
@@ -98,90 +99,18 @@ Dataset:
 
 
 
-#Matrixed Threat Guide by Industry
+#Matrixed Threat Guide by Industry <a id="Matrixed Threat Guide by Industry"></a>
 
-##Industry Threat Summary
+##Industry Threat Summary <a id="Industry Threat Summary"></a>
 
-###Financial
+###Financial <a id="Financial"></a>
 
-###Aerospace
+###Aerospace <a id="Aerospace"></a>
 
-###Cleared Defense Contractors
+###Cleared Defense Contractors <a id="Cleared Defense Contractors"></a>
 
-###Healthcare
+###Healthcare <a id="Healthcare"></a>
 
-###Government
+###Government <a id="Government"></a>
 
-###Manufacturing
-
-
-##Threat Matrix
-
-| Intrusion Set | Financial | Aerospace | Cleared Defense Contractors | Healthcare | Government | Manufacturing |
-| --- |:---:|:---:|:---:|:---:|:---:|:---:|
-| ANUNAK | | | | | | |
-| APT2 | | | | | | |
-| Blackfly | | | | | | |
-| Black Vine | | | | | | |
-| Buckeye | | | | | | |
-| Chinastrats | | | | | | |
-| Comment Crew | | | | | | |
-| Comment Group | | | | | | |
-| Comment Panda | | | | | | |
-| Cozy Bear | | | | | | |
-| Deputy Dog | | | | | | |
-| Dropping Elephant | | | | | | |
-| Dynamite Panda | | | | | | |
-| DynCalc | | | | | | |
-| Emissary Panda | | | | | | |
-| Energetic Bear | | | | | | |
-| Fancy Bear | | | | | | |
-| Gaza cybergang | | | | | | |
-| Gothic Panda | | | | | | |
-| Group 72 | | | | | | |
-| IXESHE | | | | | | |
-| KungFu Kittens | | | | | | |
-| MSUpdater | | | | | | |
-| Numbered Panda | | | | | | |
-| Operation Hangover | | | | | | |
-| Operation Molerats | | | | | | |
-| Pawn Storm | | | | | | |
-| PinkPanther | | | | | | |
-| Pirpi | | | | | | |
-| ProjectSauron | | | | | | |
-| Quedagh | | | | | | |
-| Sednit | | | | | | |
-| Shell Crew | | | | | | |
-| Sofacy | | | | | | |
-| Spring Dragon | | | | | | |
-| STRONTIUM | | | | | | |
-| The Dukes | | | | | | |
-| Threat Group-0110 | | | | | | |
-| Threat Group-0416 | | | | | | |
-| Threat Group 2889 | | | | | | |
-| Threat Group-4127 | | | | | | |
-| Tsar Team | | | | | | |
-| UPS Team | | | | | | |
-| Waterbug | | | | | | |
-| WebMasters | | | | | | |
-| Winnti Group | | | | | | |
-
-#Tactical Objectives & Tactics Bulletins
-
-##Tactics Bulletins
-* Tactics_Bulletin.Command_and_Control
-* Tactics_Bulletin.Discovery
-* Tactics_Bulletin.Exploitation
-* Tactics_Bulletin.Effects
-* Tactics_Bulletin.Evasion
-* Tactics_Bulletin.Code_Execution
-* Tactics_Bulletin.Lateral_Movement
-* Tactics_Bulletin.Persistence
-* Tactics_Bulletin.Privilege_Escalation
-
-#Brevity Words,defs
-#Tools
-
-
-Intro/Purpose/Intrusion Sets and Archetypes/Threat Guide by Industry matrixed to IS and Arcs/Chapters(Objectives) & Tactics Bulletins/attachments: . /Brevity Words,defs/tools
-
+###Manufacturing <a id="Manufacturing"></a>
