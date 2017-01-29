@@ -114,3 +114,76 @@ Dataset:
 ###Government <a id="Government"></a>
 
 ###Manufacturing <a id="Manufacturing"></a>
+
+
+##Threat Matrix <a id="Threat Matrix"></a>
+
+| Intrusion Set | Financial | Aerospace | Cleared Defense Contractors | Healthcare | Government | Manufacturing |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|
+| ANUNAK | | | | | | |
+| APT2 | | | | | | |
+| Blackfly | | | | | | |
+| Black Vine | | | | | | |
+| Buckeye | | | | | | |
+| Chinastrats | | | | | | |
+| Comment Crew | | | | | | |
+| Comment Group | | | | | | |
+| Comment Panda | | | | | | |
+| Cozy Bear | | | | | | |
+| Deputy Dog | | | | | | |
+| Dropping Elephant | | | | | | |
+| Dynamite Panda | | | | | | |
+| DynCalc | | | | | | |
+| Emissary Panda | | | | | | |
+| Energetic Bear | | | | | | |
+| Fancy Bear | | | | | | |
+| Gaza cybergang | | | | | | |
+| Gothic Panda | | | | | | |
+| Group 72 | | | | | | |
+| IXESHE | | | | | | |
+| KungFu Kittens | | | | | | |
+| MSUpdater | | | | | | |
+| Numbered Panda | | | | | | |
+| Operation Hangover | | | | | | |
+| Operation Molerats | | | | | | |
+| Pawn Storm | | | | | | |
+| PinkPanther | | | | | | |
+| Pirpi | | | | | | |
+| ProjectSauron | | | | | | |
+| Quedagh | | | | | | |
+| Sednit | | | | | | |
+| Shell Crew | | | | | | |
+| Sofacy | | | | | | |
+| Spring Dragon | | | | | | |
+| STRONTIUM | | | | | | |
+| The Dukes | | | | | | |
+| Threat Group-0110 | | | | | | |
+| Threat Group-0416 | | | | | | |
+| Threat Group 2889 | | | | | | |
+| Threat Group-4127 | | | | | | |
+| Tsar Team | | | | | | |
+| UPS Team | | | | | | |
+| Waterbug | | | | | | |
+| WebMasters | | | | | | |
+| Winnti Group | | | | | | |
+
+#Tactical Objectives & Tactics Bulletins <a id="Tactical Objectives & Tactics Bulletins"></a>
+
+##Tactics Bulletins <a id="Tactics Bulletins"></a>
+* Tactics_Bulletin.Command_and_Control
+* Tactics_Bulletin.Discovery
+* Tactics_Bulletin.Exploitation
+* Tactics_Bulletin.Effects
+* Tactics_Bulletin.Evasion
+* Tactics_Bulletin.Code_Execution
+* Tactics_Bulletin.Lateral_Movement
+* Tactics_Bulletin.Persistence
+* Tactics_Bulletin.Privilege_Escalation
+
+#Brevity Words,defs <a id="Brevity Words,defs"></a>
+#Tools <a id="Tools"></a>
+
+
+Intro/Purpose/Intrusion Sets and Archetypes/Threat Guide by Industry matrixed to IS and Arcs/Chapters(Objectives) & Tactics Bulletins/attachments: . /Brevity Words,defs/tools
+
+
