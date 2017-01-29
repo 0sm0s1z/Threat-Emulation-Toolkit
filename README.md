@@ -14,7 +14,7 @@ persistence
 privilege-escalation
 
 Cyber tactics cover a much wider arrangement of scenarios than typical employment of forces might so we have -> TTP Subcategories -> Breakdown into specific kind of situation/signifier that can drive employment scenarios
----
+
 What is project, How to use, repo structure - tactics folders (Tactical objectives), Information/Background: ,, what is threat emulation (structured employment of forces) (and what are TTP, JP 1-02), training the defense to the threat, identifying specific organizational threats by matching to IP/critical information/PII/HIPAA/Theat Intel, ATT&CK Matrix, What are threat archetypes?
 
 what is a:Threat_Intelligence- -> Who does this TTP? Specific actors/archetypes
