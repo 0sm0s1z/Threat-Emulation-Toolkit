@@ -20,11 +20,12 @@
 ###Intrusion Sets
 Data/refs/orig
 
-
 ##Intrusion Sets Included
+
 Dataset:
-| Intrusion Set       | Similar Threat Archetype | Active Since | Confidence Level |
-| ------------------- | ------------------------ | ------------ |:----------------:|
+
+| Intrusion Set | Similar Threat Archetype | Active Since | Confidence Level |
+| --- | --- | --- |:---:|
 | ANUNAK | N/A | N/A | N/A |
 | APT2 | N/A | N/A | N/A |
 | Blackfly | N/A | N/A | N/A |
@@ -75,6 +76,72 @@ Dataset:
 
 
 #Matrixed Threat Guide by Industry
+
+##Industry Threat Summary
+
+###Financial
+
+###Aerospace
+
+###Cleared Defense Contractors
+
+###Healthcare
+
+###Government
+
+###Manufacturing
+
+
+##Threat Matrix
+
+| Intrusion Set | Financial | Aerospace | Cleared Defense Contractors | Healthcare | Government | Manufacturing |
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|
+| ANUNAK | | | | | | |
+| APT2 | | | | | | |
+| Blackfly | | | | | | |
+| Black Vine | | | | | | |
+| Buckeye | | | | | | |
+| Chinastrats | | | | | | |
+| Comment Crew | | | | | | |
+| Comment Group | | | | | | |
+| Comment Panda | | | | | | |
+| Cozy Bear | | | | | | |
+| Deputy Dog | | | | | | |
+| Dropping Elephant | | | | | | |
+| Dynamite Panda | | | | | | |
+| DynCalc | | | | | | |
+| Emissary Panda | | | | | | |
+| Energetic Bear | | | | | | |
+| Fancy Bear | | | | | | |
+| Gaza cybergang | | | | | | |
+| Gothic Panda | | | | | | |
+| Group 72 | | | | | | |
+| IXESHE | | | | | | |
+| KungFu Kittens | | | | | | |
+| MSUpdater | | | | | | |
+| Numbered Panda | | | | | | |
+| Operation Hangover | | | | | | |
+| Operation Molerats | | | | | | |
+| Pawn Storm | | | | | | |
+| PinkPanther | | | | | | |
+| Pirpi | | | | | | |
+| ProjectSauron | | | | | | |
+| Quedagh | | | | | | |
+| Sednit | | | | | | |
+| Shell Crew | | | | | | |
+| Sofacy | | | | | | |
+| Spring Dragon | | | | | | |
+| STRONTIUM | | | | | | |
+| The Dukes | | | | | | |
+| Threat Group-0110 | | | | | | |
+| Threat Group-0416 | | | | | | |
+| Threat Group 2889 | | | | | | |
+| Threat Group-4127 | | | | | | |
+| Tsar Team | | | | | | |
+| UPS Team | | | | | | |
+| Waterbug | | | | | | |
+| WebMasters | | | | | | |
+| Winnti Group | | | | | | |
 
 #Tactical Objectives & Tactics Bulletins
 
