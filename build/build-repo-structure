@@ -1,0 +1,209 @@
+iecho "Building Main..."
+
+touch Cyber_Tactics_Volume_3-1.Threat_Emulation
+
+echo "Building Tactics..."
+
+mkdir c2
+mkdir c2/remote-access
+touch c2/remote-access/implants
+mkdir discovery
+mkdir discovery/domain
+mkdir discovery/file
+mkdir discovery/host
+mkdir discovery/network
+mkdir discovery/reconnaissance
+mkdir exploitation
+mkdir effects-generation
+mkdir effects-generation/collection
+mkdir effects-generation/data-manipulation
+mkdir effects-generation/data-manipulation/currency-theft
+mkdir effects-generation/data-manipulation/grade-alteration
+mkdir effects-generation/data-manipulation/price-alteration
+mkdir effects-generation/destruction
+mkdir effects-generation/destruction/cyberkinetics
+mkdir effects-generation/destruction/defacement
+mkdir effects-generation/destruction/dns-manipulation-dos
+mkdir effects-generation/destruction/over-write-bootloader
+mkdir effects-generation/destruction/system-reset-oobe
+mkdir effects-generation/destruction/system-wide-cryptolock
+mkdir effects-generation/destruction/vandalism
+mkdir effects-generation/extortion
+mkdir effects-generation/extortion/blackmail
+mkdir effects-generation/extortion/system-hostage-taking
+mkdir effects-generation/extortion/ransomware
+mkdir effects-generation/infrastructure-development
+mkdir effects-generation/infrastructure-development/c2-redirectors
+mkdir effects-generation/infrastructure-development/site-surveys
+mkdir effects-generation/infrastructure-development/socks-proxy
+mkdir evasion
+mkdir execution
+mkdir lateral-movement
+mkdir persistence
+mkdir privilege-escalation
+
+touch c2/Tactics_Bulletin.Command_and_Control
+touch discovery/Tactics_Bulletin.Discovery
+touch exploitation/Tactics_Bulletin.Exploitation
+touch effects-generation/Tactics_Bulletin.Effects
+touch evasion/Tactics_Bulletin.Evasion
+touch execution/Tactics_Bulletin.Code_Execution
+touch lateral-movement/Tactics_Bulletin.Lateral_Movement
+touch persistence/Tactics_Bulletin.Persistence
+touch privilege-escalation/Tactics_Bulletin.Privilege_Escalation
+
+
+echo "Building Tools..."
+
+mkdir tools/
+mkdir tools/implants
+touch tools/implants/bash
+touch tools/implants/dll
+touch tools/implants/exe
+touch tools/implants/java
+touch tools/implants/javascript
+touch tools/implants/os-component
+touch tools/implants/perl
+touch tools/implants/powershell
+touch tools/implants/python
+touch tools/implants/README.md
+touch tools/implants/ruby
+touch tools/implants/vbs
+mkdir tools/implants/webshell
+touch tools/implants/webshell/aspx
+touch tools/implants/webshell/java
+touch tools/implants/webshell/jsp
+touch tools/implants/webshell/node
+touch tools/implants/webshell/php
+touch tools/implants/webshell/python-django
+touch tools/implants/webshell/ruby
+mkdir tools/ransomware
+touch tools/ransomware/bash
+touch tools/ransomware/dll
+touch tools/ransomware/exe
+touch tools/ransomware/javascript
+touch tools/ransomware/multi
+touch tools/ransomware/os-component
+touch tools/ransomware/powershell
+touch tools/ransomware/python
+touch tools/ransomware/vbs
+
+echo "Building Threat Intel..."
+
+mkdir threat-intelligence
+cd threat-intelligence
+touch Threat_Guide
+mkdir AT_state_sponsored-novice
+mkdir AT_state_sponsored-intermediate
+mkdir AT_state_sponsored-elite
+mkdir AT_organized_crime
+mkdir AT_hacktivist
+mkdir AT_insider_threat-disgruntled_employee
+mkdir AT_insider_threat-theft_fraud
+mkdir AT_cyber-terrorist
+mkdir AT_law-enforcement
+touch AT_state_sponsored-novice/Threat_Assessment
+touch AT_state_sponsored-intermediate/Threat_Assessment
+touch AT_state_sponsored-elite/Threat_Assessment
+touch AT_organized_crime/Threat_Assessment
+touch AT_hacktivist/Threat_Assessment
+touch AT_insider_threat-disgruntled_employee/Threat_Assessment
+touch AT_insider_threat-theft_fraud/Threat_Assessment
+touch AT_cyber-terrorist/Threat_Assessment
+touch AT_law-enforcement/Threat_Assessment
+mkdir "ANUNAK"
+touch "ANUNAK/Threat_Assessment"
+mkdir "APT2"
+touch "APT2/Threat_Assessment"
+mkdir "Blackfly"
+touch "Blackfly/Threat_Assessment"
+mkdir "Black Vine"
+touch "Black Vine/Threat_Assessment"
+mkdir "Buckeye"
+touch "Buckeye/Threat_Assessment"
+mkdir "Chinastrats"
+touch "Chinastrats/Threat_Assessment"
+mkdir "Comment Crew"
+touch "Comment Crew/Threat_Assessment"
+mkdir "Comment Group"
+touch "Comment Group/Threat_Assessment"
+mkdir "Comment Panda"
+touch "Comment Panda/Threat_Assessment"
+mkdir "Cozy Bear"
+touch "Cozy Bear/Threat_Assessment"
+mkdir "Deputy Dog"
+touch "Deputy Dog/Threat_Assessment"
+mkdir "Dropping Elephant"
+touch "Dropping Elephant/Threat_Assessment"
+mkdir "Dynamite Panda"
+touch "Dynamite Panda/Threat_Assessment"
+mkdir "DynCalc"
+touch "DynCalc/Threat_Assessment"
+mkdir "Emissary Panda"
+touch "Emissary Panda/Threat_Assessment"
+mkdir "Energetic Bear"
+touch "Energetic Bear/Threat_Assessment"
+mkdir "Fancy Bear"
+touch "Fancy Bear/Threat_Assessment"
+mkdir "Gaza cybergang"
+touch "Gaza cybergang/Threat_Assessment"
+mkdir "Gothic Panda"
+touch "Gothic Panda/Threat_Assessment"
+mkdir "Group 72"
+touch "Group 72/Threat_Assessment"
+mkdir "IXESHE"
+touch "IXESHE/Threat_Assessment"
+mkdir "KungFu Kittens"
+touch "KungFu Kittens/Threat_Assessment"
+mkdir "MSUpdater"
+touch "MSUpdater/Threat_Assessment"
+mkdir "Numbered Panda"
+touch "Numbered Panda/Threat_Assessment"
+mkdir "Operation Hangover"
+touch "Operation Hangover/Threat_Assessment"
+mkdir "Operation Molerats"
+touch "Operation Molerats/Threat_Assessment"
+mkdir "Pawn Storm"
+touch "Pawn Storm/Threat_Assessment"
+mkdir "PinkPanther"
+touch "PinkPanther/Threat_Assessment"
+mkdir "Pirpi"
+touch "Pirpi/Threat_Assessment"
+mkdir "ProjectSauron"
+touch "ProjectSauron/Threat_Assessment"
+mkdir "Quedagh"
+touch "Quedagh/Threat_Assessment"
+mkdir "Sednit"
+touch "Sednit/Threat_Assessment"
+mkdir "Shell Crew"
+touch "Shell Crew/Threat_Assessment"
+mkdir "Sofacy"
+touch "Sofacy/Threat_Assessment"
+mkdir "Spring Dragon"
+touch "Spring Dragon/Threat_Assessment"
+mkdir "STRONTIUM"
+touch "STRONTIUM/Threat_Assessment"
+mkdir "The Dukes"
+touch "The Dukes/Threat_Assessment"
+mkdir "Threat Group-0110"
+touch "Threat Group-0110/Threat_Assessment"
+mkdir "Threat Group-0416"
+touch "Threat Group-0416/Threat_Assessment"
+mkdir "Threat Group 2889"
+touch "Threat Group 2889/Threat_Assessment"
+mkdir "Threat Group-4127"
+touch "Threat Group-4127/Threat_Assessment"
+mkdir "Tsar Team"
+touch "Tsar Team/Threat_Assessment"
+mkdir "UPS Team"
+touch "UPS Team/Threat_Assessment"
+mkdir "Waterbug"
+touch "Waterbug/Threat_Assessment"
+mkdir "WebMasters"
+touch "WebMasters/Threat_Assessment"
+mkdir "Winnti Group"
+touch "Winnti Group/Threat_Assessment"
+
+
+cd ..
+echo "Done"
