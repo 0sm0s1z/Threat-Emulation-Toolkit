@@ -1,18 +1,20 @@
 # Threat-Emulation-Toolkit
 
-# Documents
-
+##Documentation
 * [Cyber Tactics Volume - 3-1.Threat_Emulation](Cyber_Tactics_Volume_3-1.Threat_Emulation.md)
-* Tactics Bulletins:
-+ [Tactics_Bulletin.Command_and_Control](c2/Tactics_Bulletin.Command_and_Control.md)
-+ [Tactics_Bulletin.Discovery](discovery/Tactics_Bulletin.Discovery.md)
-+ [Tactics_Bulletin.Exploitation](exploitation/Tactics_Bulletin.Exploitation.md)
-+ [Tactics_Bulletin.Effects](effects-generation/Tactics_Bulletin.Effects.md)
-+ [Tactics_Bulletin.Evasion](evasion/Tactics_Bulletin.Evasion.md)
-+ [Tactics_Bulletin.Code_Execution](execution/Tactics_Bulletin.Code_Execution.md)
-+ [Tactics_Bulletin.Lateral_Movement](lateral-movement/Tactics_Bulletin.Lateral_Movement.md)
-+ [Tactics_Bulletin.Persistence](persistence/Tactics_Bulletin.Persistence.md)
-+ [Tactics_Bulletin.Privilege_Escalation](privilege-escalation/Tactics_Bulletin.Privilege_Escalation.md)
+* [Threat Guide](threat-intelligence/Threat_Guide.md)
+
+###Tactics Bulletins
+
+* [Tactics_Bulletin.Command_and_Control](c2/Tactics_Bulletin.Command_and_Control.md)
+* [Tactics_Bulletin.Discovery](discovery/Tactics_Bulletin.Discovery.md)
+* [Tactics_Bulletin.Exploitation](exploitation/Tactics_Bulletin.Exploitation.md)
+* [Tactics_Bulletin.Effects](effects-generation/Tactics_Bulletin.Effects.md)
+* [Tactics_Bulletin.Evasion](evasion/Tactics_Bulletin.Evasion.md)
+* [Tactics_Bulletin.Code_Execution](execution/Tactics_Bulletin.Code_Execution.md)
+* [Tactics_Bulletin.Lateral_Movement](lateral-movement/Tactics_Bulletin.Lateral_Movement.md)
+* [Tactics_Bulletin.Persistence](persistence/Tactics_Bulletin.Persistence.md)
+* [Tactics_Bulletin.Privilege_Escalation](privilege-escalation/Tactics_Bulletin.Privilege_Escalation.md)
 
 Tactical Objectives:
 c2
