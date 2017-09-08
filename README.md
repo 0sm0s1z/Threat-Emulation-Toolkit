@@ -1,4 +1,4 @@
-# Threat-Emulation-Toolkit ![alt tag](app/tet.png)
+# Threat-Emulation-Toolkit <img src="https://github.com/0sm0s1z/Threat-Emulation-Toolkit/app/tet.png" width="48">
 
 ## Documentation
 * [Cyber Tactics Volume - 3-1.Threat_Emulation](Cyber_Tactics_Volume_3-1.Threat_Emulation.md)
